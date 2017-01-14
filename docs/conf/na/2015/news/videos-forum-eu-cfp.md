@@ -21,7 +21,7 @@ so don't wait to submit a talk or buy tickets.
 
 ## Write the Docs Forum
 
-Our [forum](http://forum.writethedocs.org/) is the best place to keep in touch with other documentarians all year round. 
+Our [forum](http://writethedocs.discoursehosting.net/) is the best place to keep in touch with other documentarians all year round.
 
 The forum is great for: 
 
@@ -30,7 +30,7 @@ The forum is great for:
 * Finding a local meetup
 * Just keeping in touch
 
-We already have **100 documentarians** on the [forum](http://forum.writethedocs.org/), so join today and keep the good vibes going all year.
+We already have **100 documentarians** on the [forum](http://writethedocs.discoursehosting.net/), so join today and keep the good vibes going all year.
 
 ## Meetups
 

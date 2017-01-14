@@ -13,7 +13,7 @@ event special once again. Don't forget to keep in touch with us:
    Conference <http://www.writethedocs.org/conf/eu/2015/>`__ is just
    around the corner in Prague. Submit a talk or get a ticket!
 -  Keep in touch with your fellow documentarians on our `new
-   Forum <http://forum.writethedocs.org/>`__.
+   Forum <http://writethedocs.discoursehosting.net/>`__.
 -  Watch the
    `videos <https://www.youtube.com/playlist?list=PLkQw3GZ0bq1JvhaLqfBqRFuaY108QmJDK>`__
    from this years conference.

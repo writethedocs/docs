@@ -64,7 +64,7 @@ Learn more about our :doc:`/slack`.
 Forum
 ~~~~~
 
-Check out our `Forum <http://forum.writethedocs.org/>`__ to keep in
+Check out our `Forum <http://writethedocs.discoursehosting.net/>`__ to keep in
 touch with your fellow documentarians.
 
 The forum is the place to start discussions that we should keep around for a while. If a Slack conversation

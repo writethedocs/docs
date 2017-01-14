@@ -51,7 +51,7 @@ For help, questions, or discussion, the Write the Docs community is available he
 
 * [Slack](https://writethedocs.slack.com/)
 
-* [Write the Docs forum](http://forum.writethedocs.org/)
+* [Write the Docs forum](http://writethedocs.discoursehosting.net/)
 
 You can also check out [the main website](http://www.writethedocs.org/meetups/) for a list of local meetups.
 

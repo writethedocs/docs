@@ -126,7 +126,7 @@ Y'all are invited to join your fellow documentarians year round on
 on threads that interest you, and join a conversation or start a new one!
 
 [channel]: http://slack.writethedocs.org/
-[forum]: http://forum.writethedocs.org/
+[forum]: http://writethedocs.discoursehosting.net/
 
 ----
 

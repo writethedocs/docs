@@ -10,7 +10,7 @@ event special once again. Don't forget to keep in touch with us:
    America and Europe conferences. Subscription link is at the end of
    this page.
 -  Keep in touch with your fellow documentarians on our `new
-   Forum <http://forum.writethedocs.org/>`__.
+   Forum <http://writethedocs.discoursehosting.net/>`__.
 
 About
 =====

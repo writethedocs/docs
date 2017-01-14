@@ -31,7 +31,7 @@ All the videos for the conference are now posted. You can see all the videos fro
 
 ## Our New Forum
 
-Thanks to our awesome community member [Sharon Campbell](https://twitter.com/captainshar), we now have a [Write the Docs Forum](http://forum.writethedocs.org/).
+Thanks to our awesome community member [Sharon Campbell](https://twitter.com/captainshar), we now have a [Write the Docs Forum](http://writethedocs.discoursehosting.net/).
 
 We hope that this forum will serve as the easiest way to share information with the community. Join the forum, and feel free to start a topic or chime in on an existing thread.
 

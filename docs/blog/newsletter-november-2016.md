@@ -33,7 +33,7 @@ In general, the recommendation was to pick one authoritative style guide and sti
 
 If you're looking for more style guide resources:
 * Thursday Bram (@thursday) made her style guide template available on her blog:  [http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want]( http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want) It makes an _excellent_ starting point if you're developing your own style guide.
-* This forum post from last year also has some style guide suggestions for documentarians: [http://forum.writethedocs.org/t/style-guides-for-documentarians/112](http://forum.writethedocs.org/t/style-guides-for-documentarians/112)
+* This forum post from last year also has some style guide suggestions for documentarians: [http://writethedocs.discoursehosting.net/t/style-guides-for-documentarians/112](http://writethedocs.discoursehosting.net/t/style-guides-for-documentarians/112)
 
 ## How do documentation and content strategy intersect?
 

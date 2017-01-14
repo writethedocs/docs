@@ -4,7 +4,7 @@ Starting a Meetup
 Write the Docs `Meetups <http://www.writethedocs.org/meetups/>`_ provide
 a great way to connect and continue the conversations sparked by our
 `conferences <http://www.writethedocs.org/conf/>`_, `slack channel
-<http://slack.writethedocs.org/>`_ and `forum <http://forum.writethedocs.org/>`_ .
+<http://slack.writethedocs.org/>`_ and `forum <http://writethedocs.discoursehosting.net/>`_ .
 If you don't have a Write the Docs Meetup nearby, we can help you get one started.
 With a little help, you can make it happen with a Meetup in your area!
 
