@@ -275,7 +275,7 @@ class MeetupListing(rst.Directive):
 
         templates = getattr(builder, 'templates', None)
         if not templates:
-            return
+            return []
         
         region_name = self.options['region']
         output = ViewList()
