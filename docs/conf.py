@@ -134,6 +134,8 @@ def load_meetups_by_region():
     result = collections.defaultdict(list)
     for yaml_file in glob.glob('_data/meetups/*.yaml'):
         meetup = load_yaml(yaml_file)
+        if not 'website' in meetup:
+            raise SphinxError('Meetup needs a website')
         result[meetup['region']].append(meetup)
     for _, meetups in result.items():
         meetups.sort(key=lambda m : m.get('city', m['country']))
@@ -146,6 +148,7 @@ na_2017_speakers = load_yaml('_data/2017.na.speakers.yaml')
 na_day1 = load_yaml('_data/na-2016-day-1.yaml')
 na_day2 = load_yaml('_data/na-2016-day-2.yaml')
 
+eu_2017_speakers = load_yaml('_data/2017.eu.speakers.yaml')
 eu_speakers = load_yaml('_data/2016.eu.speakers.yaml')
 eu_day1 = load_yaml('_data/eu-2016-day-1.yaml')
 eu_day2 = load_yaml('_data/eu-2016-day-2.yaml')
@@ -188,6 +191,7 @@ html_context = {
     'eu_2016_speakers': eu_speakers,
     'na_2016_speakers': na_speakers,
     'na_2017_speakers': na_2017_speakers,
+    'eu_2017_speakers': eu_2017_speakers,
     'na_2016_day1': na_day1,
     'na_2016_day2': na_day2,
     'eu_2016_day1': eu_day1,
@@ -276,7 +280,7 @@ class MeetupListing(rst.Directive):
         templates = getattr(builder, 'templates', None)
         if not templates:
             return []
-        
+
         region_name = self.options['region']
         output = ViewList()
         template_name = 'include/meetups/listing.jinja'

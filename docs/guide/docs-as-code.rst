@@ -1,14 +1,22 @@
 Docs as Code
 ============
 
-:author: `Eric Holscher <https://ericholscher.com>`_
+:author: `Eric Holscher <https://ericholscher.com>`_ & the Write the Docs community
 
-*Docs as Code* refers to a philosophy that you should be writing documentation with the same tools you use to write code.
-This means following the same workflows and integrating into development teams.
+Documentation as Code (*Docs as Code*) refers to a philosophy that you should be writing documentation with the same tools as code:
+
+* Issue Trackers
+* Version Control (Git)
+* Plain Text Markup (Markdown, reStructuredText, Asciidoc)
+* Code Reviews
+* Automated Tests
+
+This means following the same workflows as development teams,
+and being integrated in the product team.
 It enables a culture where writers and developers both feel ownership of documentation,
 and work together to make it as good as possible.
 
-Generally a *docs as Code* approach gives you the following benefits:
+Generally a *Docs as Code* approach gives you the following benefits:
 
 * Writers integrate better with development teams
 * Developers will often write a first draft of documentation
@@ -17,8 +25,8 @@ Generally a *docs as Code* approach gives you the following benefits:
 There is a lot more to building a proper *Docs as Code* workflow.
 There are a couple books we recommend that you check out:
 
-* Docs Like Code - Anne Gentle
-* Modern Technical Writing - Andrew Etter
+* `Docs Like Code <https://www.amazon.com/Docs-Like-Code-Anne-Gentle-ebook/dp/B06XHC1TGM>`_ - Anne Gentle
+* `Modern Technical Writing <https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS>`_ - Andrew Etter
     
 *Docs as Code* at Write the Docs
 ----------------------------------

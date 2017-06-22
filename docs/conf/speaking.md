@@ -14,7 +14,7 @@ not sure, let us know right away at conf@writethedocs.org.
 
 ### Presentation
 
-We do not be allow time after the presentations for questions,
+**We do not be allow time after the presentations for questions**,
 we feel posing questions for the speaker is best done on a more limited basis.
 If any attendees have questions, they will be instructed to come up to stage to
 present them to the speaker, rather than take up the time of the rest of the
@@ -30,6 +30,8 @@ If you haven't spoken before, your time will likely run
 a bit shorter on stage than when you are practicing. Matt Haughey
 wrote a [guide on giving a presentation][introverts-guide] that might be a
 tremendous help to you if you are new to presenting in front of audiences.
+The [article](https://hynek.me/articles/speaking/) from Hynek is also a wonderful one,
+which covers the steps to prepare for a talk.
 
 There are a lot of different ways of thinking through making your slides.
 Idan Gazit,

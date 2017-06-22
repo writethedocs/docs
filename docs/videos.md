@@ -14,3 +14,4 @@ Here are the links to videos from all of our events:
 * [Write the Docs EU 2015](https://www.youtube.com/playlist?list=PLZAeFn6dfHplFNTsVdBuHk6vPZbsvHtDw)
 * [Write the Docs NA 2016](https://www.youtube.com/playlist?list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv)
 * [Write the Docs EU 2016](https://www.youtube.com/playlist?list=PLZAeFn6dfHpnN8fXXHwPtPY33aLGGhYLJ)
+* [Write the Docs Portland 2017](https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBld-70TsOoYToM3CaTxRC)

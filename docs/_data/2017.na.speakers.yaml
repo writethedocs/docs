@@ -4,14 +4,14 @@
     to integrate and stay up to date with code, you should also be keeping your documentation
     there. This tutorial will take you from feeling uneasy about interacting with
     git to making it feel like something you can 'git' the hang of.</p>
-    
+
     <p><em>Learn how to Git</em> with Matt Desmond, who is a technical writer-turned-trainer for
     GitHub. Take part in hands-on keyboard exercises that will removes the guesswork
     out of managing your development process using Git.</p>
-    
+
     <p>After attending this
     session, students will:</p>
-    
+
     <ul>
     <li><p>Conquer the different Git commands</p></li>
     <li><p>Actually understand what that StackOverflow answer means</p></li>
@@ -19,7 +19,7 @@
     branch even is)</p></li>
     <li><p>Become a collaboration machine!</p></li>
     </ul>
-    
+
     <p>Tickets to this workshop are sold seperately. You can
     <a href='https://ti.to/writethedocs/write-the-docs-na-2017/with/yzgjvsp7zcw'>buy
     your ticket here</a>.</p>
@@ -54,53 +54,30 @@
     name: Heidi Waterhouse
     slug: heidi-waterhouse
     twitter: ''
-- title: Writing the Docs, University Edition
-  abstract: |
-    <p>With millions of students enrolling in online college courses every
-    year across the US, new and veteran instructors alike face a rapidly changing
-    teaching environment. From my experience working at Portland State University
-    as a writer and support technician, I'll present data and case studies
-    showing how technical writers can make a difference in promoting the health
-    and accessibility of our increasingly digitized public institutions.</p><p>In
-    order to meet the growing interest in flexible education, PSU has increased
-    the number of online courses by 72% in the last 5 years. For many instructors,
-    the transition to teaching online is a challenging process, totally outside
-    their field of expertise.</p><p>In my presentation, I talk about what it'
-    s like to be pretty much the only technical writer working for faculty at PSU,
-    some lessons learned, and some faculty case studies that illustrate what it'
-    s like to interact with online teaching tools and support materials that I administer.
-    I argue the importance of quality documentation as a way to promote digital
-    literacy, and talk about what this means in the context of access and equity
-    in 21st century higher education.</p>
-  speakers:
-  - details: ''
-    name: Lynnae Griffiths
-    slug: lynnae-griffiths
-    twitter: ''
 - title: Everyone's a player (in a mid-90s MUD)
   abstract: |
     <p><em>&gt; N</em></p><p>You have found a secret room in the castle!
     You gain 26 xp.</p>
-    
+
     <p>You enter a large interior space with stone walls and
     a high stone ceiling. Torches flicker in wall brackets. A large self-referential
     tapestry hanging on the north wall shows a guild workshop full of happy weavers
     busily weaving the very tapestry in which they are depicted. There are exits
     to the east, west, and south.</p>
-    
+
     <p><strong>Linden</strong>, another player,
     is here. <strong>Gwyrian</strong>, another player, is here.</p>
-    
+
     <p><em>&gt; say "Hi"</em></p>
-    
+
     <p>You say "Hi"</p>
-    
+
     <p>Gwyrian says "Hey! Do you want to explore this area together?"</p>
-    
+
     <p>Linden attacks you with a critical hit from their sword!</p>
-    
+
     <p>You are dead!</p>
-    
+
     <p>Other people: sometimes difficult
     to work with and often impossible to predict. In your technical or documentation
     project, how can you get the right people interested and involved? How can you
@@ -109,12 +86,14 @@
     from causing delays? And why do some people seem to thrive in an environment
     with poor documentation and how can you encourage them to participate in effectively
     documenting everything anyway?</p>
-    
+
     <p>In this talk, I'll explore ways to
     accomplish these aims, using strategies drawn from “Player Type Theory”
     . For 20 years, this theory has been employed by game designers to encourage stable
     long-term play communities in online multiplayer games. These are strategies
     that I have used successfully in my workplace and they can work for you too.</p>
+  video: https://www.youtube.com/watch?v=BiYSJ5dkoM0
+  slides: https://docs.google.com/presentation/d/16lt-az4HyfWOg4k-HxbH2rhfmC5q6dC9Nuy0Exb3VYU
   speakers:
   - details: ''
     name: Kenzie Woodbridge
@@ -144,6 +123,7 @@
     the balance between making tests too precise and not precise enough. For those
     who are interested in implementing right away, I will also provide a comprehensive
     list of resources for getting started.</p>
+  video: https://www.youtube.com/watch?v=e1_MMEr4kNU
   speakers:
   - details: ''
     name: Lyzi Diamond
@@ -156,9 +136,9 @@
     you're a Meetup leader, or want to start your own Write the Docs Meetup,
     come to our unconference session. We'll facilitate while current and future
     Meetup leaders discuss strategies and tips for better Write the Docs Meetups.</p>
-    
+
     <p>Potential topics:</p>
-    
+
     <ul>
     <li><p>Building a community</p></li>
     <li><p>Getting speakers</p></li>
@@ -200,6 +180,8 @@
     Provide navigational signposts \u2014 such as breadcrumbs and workflow maps
     \u2014 to help orient users as to where they are in a larger system.</p></li>
     </ul>
+  video: https://www.youtube.com/watch?v=w-kEmsLwPDE
+  slides: http://idratherbewriting.com/files/doc-navigation-wtd/index.html
   speakers:
   - details: ''
     name: Tom Johnson
@@ -218,6 +200,8 @@
     practices that can make getting and giving feedback easier. This presentation
     passes along the strategies I learned so you can implement design critique guidelines
     into your review process and make feedback painless.</p>
+  video: https://www.youtube.com/watch?v=E_GyqG3Gd38
+  slides: http://canncrochet.com/Presentations-1
   speakers:
   - details: ''
     name: Christy Lutz
@@ -239,6 +223,8 @@
     in partnership with your support team can not only focus your docs to the points
     that matter, but let you see how operating as connective tissue between departments
     makes everyone's life easier.</p>
+  video: https://www.youtube.com/watch?v=qXrX6hZO6V0
+  slides: https://docs.google.com/presentation/d/1JpyWi6uN-3zhM77ApzVz15jUw_8dckEh1Hs6dhsac2o/edit?usp=sharing
   speakers:
   - details: ''
     name: Matthew Buttler
@@ -271,6 +257,8 @@
     <p>In this talk I show how making error message Humble, Human, and Helpful is
     critical to making your users Happy. We''ll laugh at a few bad errors, and learn
     from the good error messages and microcopy. </p>
+  video: https://www.youtube.com/watch?v=gBBZUATL7Qo
+  slides: https://docs.google.com/presentation/d/1gCgkaaXIFSLf3afRxEGNFwm0bPTcURcVQNuQj0QZDqQ/edit
   speakers:
   - details: ''
     name: Kate Voss
@@ -320,6 +308,8 @@
     Can a good interview outweigh a bad assignment test? Can a bad interview spoil
     the impression after a good assignment test? What things should be asked during
     an interview?</p></li></ul>
+  video: https://www.youtube.com/watch?v=tcjLbCLcPTo
+  slides: https://speakerdeck.com/factorized/hiring-technical-writers-the-siberian-way
   speakers:
   - details: ''
     name: Sam Faktorovich
@@ -349,6 +339,8 @@
     the docs information architecture we developed; how we incorporated syntax and
     grammar checks into code testing; and how we build and deploy our documentation
     automatically.</p>
+  video: https://www.youtube.com/watch?v=Mzu-c-FoOdw
+  slides: http://preview.tinyurl.com/k4fqkzo
   speakers:
   - details: ''
     name: Jodie Putrino
@@ -382,6 +374,7 @@
     documentation sprint, with a flexible, supportive structure</p></li><li><p>How
     we built in time for followthrough after the event, with plans for outreach, adoption
     and onboarding</p></li><li><p>And how we made the whole thing human-friendly</p></li></ul></p>
+  video: https://www.youtube.com/watch?v=08l9FGJOz5E
   speakers:
   - details: ''
     name: Ryan Pitts
@@ -426,6 +419,8 @@
     by watching other people apply it to real content and not in some kind of fake
     training situation. </p><p>This talk will discuss our strategies and methods
     in more detail and show examples of content before and after crowdsourced minimalism.</p>
+  video: https://www.youtube.com/watch?v=s3Em8QSXyn8
+  slides: https://docs.google.com/presentation/d/1Yeql9FrRBgKU-QlRU-nblPJ9pfZKgoKcU8SW6SQ_UqI/edit?usp=sharing
   speakers:
   - details: ''
     name: Ingrid Towey
@@ -446,6 +441,7 @@
     patterns (and anti-patterns) I've observed around documentation and care.
     Then, to spur small group discussions, I'll share design principles for
     documentation as care.</p>
+  video: https://www.youtube.com/watch?v=quC7mJn8B_U
   speakers:
   - details: ''
     name: Amelia Abreu
@@ -471,6 +467,8 @@
     from docs? - How do you choose tools and workflows for building your initial
     docs architecture? - How do you iterate on, improve, and expand your docs,
     and harness contributors to do the same? </p>
+  video: https://www.youtube.com/watch?v=YLXNJXQyYoE
+  slides: https://docs.google.com/presentation/d/1Sce3OtXMF2mUV11taCqNzXERdsFBtfdxBXYqs7EBI_k/edit?usp=sharing
   speakers:
   - details: ''
     name: Jesse Seldess
@@ -532,6 +530,8 @@
     - How can technology help our efforts to name things well?
 
     - How can documentarians and developers work together to name things better?</p>
+  video: https://www.youtube.com/watch?v=RFfpkrbkvxc
+  slides: https://www.slideshare.net/unruthless/even-naming-this-talk-is-hard
   speakers:
   - details: ''
     name: Ruthie BenDor
@@ -559,10 +559,12 @@
     useful approach, since these services tend to have fewer specific endpoints,
     and the documentation needs to focus much more on how the client can successfully
     navigate links to accomplish the desired task. In this 30-minute talk, I'
-    ll discuss how you can successfully integrate this approach to your workflow 
+    ll discuss how you can successfully integrate this approach to your workflow
     when considering everything from overall information architecture, to deciding
     which content assets to prioritize, to refining the tone used throughout your
     developer communications.</p>
+  video: https://www.youtube.com/watch?v=R8yjmtIWEKQ
+  slides: https://docs.google.com/presentation/d/1I9FwgeRD0JvkikuQqf64fncvlK_YwxOpmDdoS1oSTQQ/pub?start=true&loop=false&delayms=60000#slide=id.p
   speakers:
   - details: ''
     name: Sarah Hersh
@@ -591,6 +593,7 @@
     crisis in science, statisticians havedeveloped technology to create "intelligent
     documents" that not onlyreport the results of a statistical analysis, but
     can also re-create theanalysis itself.</p>
+  slides: https://github.com/carljparker/wtd-2017-verifiable-crisis
   speakers:
   - details: ''
     name: Carl Parker
@@ -618,6 +621,8 @@
     adjuncts to documentation, providing critical data for root cause analysis.</p><p>Learn
     about these sources, not just how others use them, but where you can find valuable
     detail to enhance the documents you write for operations.</p>
+  video: https://www.youtube.com/watch?v=QDxoqWpyzo8
+  slides: http://feorlen.org/wtd/index.html
   speakers:
   - details: ''
     name: Andrea Longo

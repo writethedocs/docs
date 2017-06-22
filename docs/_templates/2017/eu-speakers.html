@@ -1,0 +1,35 @@
+{% extends "2017/eu.html" %}
+
+
+{% block container %}
+    <main>
+
+    {% if title %}
+    <header class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-center">
+            <a href="/conf/na/2017/" class="header__logo">
+              <img src="{{ pathto('_static/dist/images/logo-subpage.svg', 1) }}" alt="Write the Docs Portland">
+            </a>
+            <h1 class="header__title">{{ title }}</h1>
+          </div>
+        </div>
+      </div>
+    </header>
+    {% endif %}
+
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-left">
+            <div class="main-container speakers">
+              {% block body %}
+                {{ body }}
+              {% endblock body %}
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </main>
+{% endblock %}
