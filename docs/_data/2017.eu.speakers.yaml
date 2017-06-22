@@ -11,10 +11,10 @@
     <p>To make the right first impression, we had to turn things on their head and think from the reader’s perspective. From this perspective, what we’ll write and build looks very different to our “reference” documentation, seeking not only to teach the user how to use our product, but also to explain the fundamental concepts behind it and to bring the user to the all-important “aha!” moment where they see the value in what we’re offering.</p>
     <p>In this talk, I’ll go through:</p>
     <ul>
-    <li>the fundamental differences between “reference” and “getting started” documentation</li>
-    <li>the lessons we learnt on the way as we experimented and spent extensive time with end users</li>
-    <li>what we built</li>
-    <li>the results — from our users’ perspective, and in terms of how we build demand within the company for further “getting started” content</li>
+    <li><p>the fundamental differences between “reference” and “getting started” documentation</p></li>
+    <li><p>the lessons we learnt on the way as we experimented and spent extensive time with end users</p></li>
+    <li><p>what we built</p></li>
+    <li><p>the results — from our users’ perspective, and in terms of how we build demand within the company for further “getting started” content</p></li>
     </ul>
   title: '"You never get a second chance to make a first impression": writing great
     "getting started" documentation'
@@ -54,10 +54,10 @@
     <p>It simply turns out to be not very good - not helpful enough for the users who should be able to rely on it, and a depressing chore for the authors who have to maintain it.</p>
     <p>The good news is that both these problems can be solved by understanding how documentation works, and that there are four distinct kinds of documentation - with four distinct functions. The four kinds of documentation are:</p>
     <ul>
-    <li>learning-oriented tutorials</li>
-    <li>goal-oriented how-to guides</li>
-    <li>understanding-oriented discussions</li>
-    <li>information-oriented reference material</li>
+    <li><p>learning-oriented tutorials</p></li>
+    <li><p>goal-oriented how-to guides</p></li>
+    <li><p>understanding-oriented discussions</p></li>
+    <li><p>information-oriented reference material</p></li>
     </ul>
     <p>Structuring documentation according to its four distinct functions helps ensure that each of them is adequately served. It also makes it far easier to write and maintain.</p>
     <p>Using real-life examples I’ll draw out the key functions of documentation, and how they map onto different ways of writing it. Putting this into practice is simple when armed with some basic guidelines. The benefits are huge, and available with a minimum of effort.</p>
@@ -175,9 +175,9 @@
     <p>In this presentation I will explore other ways to communicate concepts beyond words to show that documentation needn't just be about technical writing.</p>
     <p>In the first part of the presentation I will briefly cover theories and principles behind forms of communication and what documentarians can learn from them. Topics such as:</p>
     <ul>
-    <li><strong>Portraying meaning in images</strong>: Iconography, maps, manuals</li>
-    <li><strong>Non-verbal conversation</strong>: Body language, ways of speaking</li>
-    <li><strong>Fidelity</strong>: Sketch notes, simplicity, style</li>
+    <li><p>Portraying meaning in images</p>: Iconography, maps, manuals</li>
+    <li><p>Non-verbal conversation</p>: Body language, ways of speaking</li>
+    <li><p>Fidelity</p>: Sketch notes, simplicity, style</li>
     </ul>
     <p>During each of these topics I will present in the style of the topic, so expect something a little different.</p>
     <p>In the second practical part of the presentation I will take elements of the theory and applying them practically. I will start by looking at screenshots and diagrams. When and how to use them, what they should show, and how to manage them.</p>
@@ -206,9 +206,9 @@
     <p>It could happen to you: your project is canceled, your team is “reorganized”, or your company is closing its doors. Some or all of your software, service, or API may not be long for this world. What will you say to the people using your software? In this talk, you’ll learn how to avoid a communications disaster when it’s time to break bad news to your users.</p>
     <p>Whether you’re deprecating significant features or shutting down entirely, you still have a chance to make life better—or at least a little less worse—for the people who have come to rely on your work. In this talk, you’ll learn how to:</p>
     <ul>
-    <li>plan your shutdown communications to make sure no users get left behind</li>
-    <li>let your users down easy with the appropriate voice, tone, and content</li>
-    <li>cope with a stressful situation</li>
+    <li><p>plan your shutdown communications to make sure no users get left behind</p></li>
+    <li><p>let your users down easy with the appropriate voice, tone, and content</p></li>
+    <li><p>cope with a stressful situation</p></li>
     </ul>
     <p>From your initial announcement to your service’s last day, you’ll learn how to say goodbye in a way that’s good for you and your soon-to-be-former users.</p>
   title: 'Deprecate and destroy: documenting your software’s last days'
@@ -259,14 +259,14 @@
   abstract: |-
     <p>Crowdsourcing is an increasingly attractive practice that is being used to develop documentation. When well designed, this approach increases documentation velocity and reduces bottlenecks. However, there are (at least) two huge challenges:</p>
     <ul>
-    <li>Keeping documentation quality high</li>
-    <li>Ensuring that content gets developed in line with the products and services it supports</li>
+    <li><p>Keeping documentation quality high</p></li>
+    <li><p>Ensuring that content gets developed in line with the products and services it supports</p></li>
     </ul>
     <p>While no doc set will ever be perfect, there is hope for overcoming these challenges. In this talk, I'll share lessons learned from working through these challenges at companies of various sizes. We'll walk through content management best practices, including: </p>
     <ul>
-    <li>Setting occasional authors up for success</li>
-    <li>Building an effective writing toolkit</li>
-    <li>Defining content management strategies for globally distributed teams</li>
+    <li><p>Setting occasional authors up for success</p></li>
+    <li><p>Building an effective writing toolkit</p></li>
+    <li><p>Defining content management strategies for globally distributed teams</p></li>
     </ul>
   title: A content manager's guide to crowdsourcing the docs
 - speakers:
