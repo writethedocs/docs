@@ -34,7 +34,7 @@
 - speakers:
   - details: ''
     name: Lauri Apple
-    twitter: "@lauritaapplez"
+    twitter: "lauritaapplez"
     website: https://github.com/LappleApple/feedmereadmes
     slug: lauri-apple
   abstract: |-
@@ -67,7 +67,7 @@
 - speakers:
   - details: ''
     name: Cory Williamson-Cardneau
-    twitter: "@cory_will"
+    twitter: "cory_will"
     website: http://cory.williamson-cardneau.com/
     slug: cory-williamson-cardneau
   abstract: |-
@@ -87,7 +87,7 @@
 - speakers:
   - details: ''
     name: Floriana Pagano
-    twitter: "@reginazabo @accessnow"
+    twitter: "reginazabo"
     website: https://www.accessnow.org/help
     slug: floriana-pagano
   abstract: |-
@@ -168,7 +168,7 @@
 - speakers:
   - details: ''
     name: Chris Ward
-    twitter: "@chrischinch"
+    twitter: "chrischinch"
     website: gregariousmammal.com
     slug: chris-ward
   abstract: |-
@@ -188,7 +188,7 @@
 - speakers:
   - details: ''
     name: Meike Chabowski
-    twitter: "@MChabowski"
+    twitter: "MChabowski"
     website: ''
     slug: meike-chabowski
   abstract: |-
@@ -215,7 +215,7 @@
 - speakers:
   - details: ''
     name: Stuart Culshaw
-    twitter: "@ouebguy"
+    twitter: "ouebguy"
     website: ''
     slug: stuart-culshaw
   abstract: |-
@@ -227,7 +227,7 @@
 - speakers:
   - details: ''
     name: Ed Stenson
-    twitter: "@edstenson"
+    twitter: "edstenson"
     website: ''
     slug: ed-stenson
   abstract: |-
@@ -240,7 +240,7 @@
 - speakers:
   - details: ''
     name: Raphael Pierzina
-    twitter: "@hackebrot"
+    twitter: "hackebrot"
     website: https://raphael.codes/
     slug: raphael-pierzina
   abstract: |-
@@ -253,7 +253,7 @@
 - speakers:
   - details: ''
     name: Becky Todd
-    twitter: "@beckatodd"
+    twitter: "beckatodd"
     website: ''
     slug: becky-todd
   abstract: |-
@@ -272,7 +272,7 @@
 - speakers:
   - details: ''
     name: Christy Lutz
-    twitter: "@canncrochet"
+    twitter: "canncrochet"
     website: ''
     slug: christy-lutz
   abstract: |-

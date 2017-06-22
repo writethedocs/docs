@@ -155,7 +155,7 @@ eu_day2 = load_yaml('_data/eu-2016-day-2.yaml')
 
 meetups_by_region = load_meetups_by_region()
 
-for list_o_speakers in [na_speakers, eu_speakers, na_2017_speakers]:
+for list_o_speakers in [na_speakers, eu_speakers, na_2017_speakers, eu_2017_speakers]:
     transform_speakers(list_o_speakers)
 
 for talk in na_day1 + na_day2:

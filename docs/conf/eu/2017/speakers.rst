@@ -1,4 +1,4 @@
-:template: 2017/eu-content.html
+:template: 2017/eu-speakers.html
 
 Conference Speakers
 ===================
