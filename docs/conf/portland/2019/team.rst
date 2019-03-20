@@ -55,7 +55,7 @@ Mikey Ariel
 
 {% include "bios/mikey.rst" %}
 
-Hillary Frayley
+Hillary Fraley
 ~~~~~~~~~~~~~~~
 
 {% include "bios/hillary.rst" %}
@@ -76,7 +76,7 @@ Primary Roles
 * **Swag coordinator** - Mikey Ariel
 * **Communication coordinator** - Mo Nishiyama
 * **Explore Portland coordinators** - Alicia Duncan & Mo Nishiyama
-* **Job Fair coordinator** - Jennifer Rondeau & Hillary Frayley
+* **Job Fair coordinator** - Jennifer Rondeau & Hillary Fraley
 * **Welcome Wagon coordinators** - Christy Lutz & Alicia Duncan
 * **Sponsorship coordinator** - Eric Holscher
 * **Writing Day coordinator** - Rose Williams

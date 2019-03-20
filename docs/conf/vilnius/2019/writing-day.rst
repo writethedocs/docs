@@ -9,9 +9,8 @@ Writing Day
 Schedule
 --------
 
-- Date & Time: **Sunday, June 2th, 9am-5pm**,
-  with the conference opening reception in the same space until 9.
-- Location: **Vilnius, University of Social Sciences**. We will be in the main ballroom.
+- Date & Time: **Sunday, June 2, 10:00-18:00**
+- Location: **Vilnius, University of Social Sciences**
 
 Projects
 --------

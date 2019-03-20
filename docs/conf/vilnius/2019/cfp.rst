@@ -4,7 +4,7 @@
 Call for Proposals
 ==================
 
-Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ area_adj }} conference, coming up on {{date.main}}.
+It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ area_adj }} conference, coming up on {{date.main}}.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you’ve worked on documentation for decades or you’ve just started this year, we want to hear from
 you! Read on to learn more about the goals of the conference and what we look for in talk proposals.
@@ -51,10 +51,11 @@ make too many assumptions about what people already know.
 
 Take a look at the abstracts for accepted talks from the last couple of conferences for some ideas:
 
-* `Portland 2017 <https://www.writethedocs.org/conf/na/2017/speakers/>`_
-* `Prague 2017 <https://www.writethedocs.org/conf/eu/2017/speakers/>`_
-* `Portland 2016 <https://www.writethedocs.org/conf/na/2016/speakers/>`_
-* `Prague 2016 <https://www.writethedocs.org/conf/eu/2016/speakers/>`_
+
+* `Portland 2018 <http://www.writethedocs.org/conf/portland/2018/speakers/>`_
+* `Prague 2018 <http://www.writethedocs.org/conf/prague/2018/speakers/>`_
+* `Portland 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_
+* `Prague 2017 <http://www.writethedocs.org/conf/eu/2017/speakers/>`_
 
 Need help?
 -----------

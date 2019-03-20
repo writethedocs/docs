@@ -6,7 +6,7 @@ year: 2019
 city: Vilnius
 local_area: Lithuania
 area: Europe # Europea Australia
-area_adj: European
+area_adj: Baltic
 tz: EEST
 email: vilnius@writethedocs.org
 color: coral
@@ -64,13 +64,13 @@ cfp:
 
 
 flagspeakersannounced: False
-flagcfp: False
+flagcfp: True
 flaghasschedule: False
-flagticketsonsale: False
+flagticketsonsale: True
 flaghashike: False
 flaghasboat: False
 flaghasshirts: False
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
 flagvideos: False
 flaglivestreaming: False

@@ -24,8 +24,9 @@ env:
  - TEST="links"
  - TEST="all_links"
 matrix:
- allow_failures:
-   - env: TEST="all_links"
+  allow_failures:
+    - env: TEST="all_links"
+  fast_finish: true
 
 
 # An attempt to explain my understanding of the rather odd convergence of Travis CI and tox with tox-travis
