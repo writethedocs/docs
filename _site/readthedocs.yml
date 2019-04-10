@@ -1,0 +1,6 @@
+type: sphinx
+python:
+    version: 3
+    requirements_file: requirements.txt
+formats: 
+    - none

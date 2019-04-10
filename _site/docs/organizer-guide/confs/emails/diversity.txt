@@ -1,0 +1,14 @@
+Hey there!
+
+I'm doing diversity outreach for Write the Docs. You can read more about our event here: (http://www.writethedocs.org/conf/na/2017/) — generally we’re looking at getting folks into the event who might not otherwise attend, and would value the experience. It’s great for folks who are interested in software, who having writing backgrounds, are working in a customer support role, or otherwise interested in learning more about software documentation.
+
+Here is the link to a free ticket: {{ TICKET_URL }} -- that currently has 2 tickets allocated to it for y'all, but let me know if you have a lot more interest, as we have some sponsors who might not use all their tickets, and we're pushing for them to allocate it to diversity outreach.
+
+Just as a note, we've generally had great gender diversity, so if it's possible to also target folks with age/income/racial diversity, that would be great. Also having folks who are more dev focused would be great, because documentation is an important part of dev, and dev is way less gender diverse in general than tech writing, which is our largest audience. 
+
+Let me know if you have any questions or concerns. Generally, feel free to figure out the best way to give them away, and just let me know how it goes. We don't have any formal policies, and love getting new folks into our community. 
+
+In particular, we have a Welcome Wagon that really tries to make sure that folks coming in are welcomed, and have a good experience: http://www.writethedocs.org/conf/na/2017/welcome-wagon/ -- so I hope that we're well set up on the inclusion side of things. Any feedback you have is always welcome!
+
+Cheers,
+Eric

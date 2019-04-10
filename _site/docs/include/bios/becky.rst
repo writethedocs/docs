@@ -1,0 +1,1 @@
+Becky is the resident librarian in the Write the Docs crew. She resides in Seattle where she works at the beautiful Seattle Central Public Library, and is our emissary into the world of librarians.

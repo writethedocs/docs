@@ -1,0 +1,14 @@
+Sphinx==1.8.3
+recommonmark==0.5.0
+ablog==0.9.3
+tox==3.7.0
+sphinx_autobuild==0.7.1
+PyYAML>=4.2b1
+docutils==0.14
+csvkit==1.0.3
+yamllint==1.14.0
+pathlib==1.0.1
+git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
+urllib3[secure]==1.24.1
+yamale==1.8.0
+ruamel.yaml==0.15.86

@@ -1,0 +1,8 @@
+Judas Priest Ate My Scrum Master
+================================
+
+.. datatemplate::
+   :source: /_data/2015.eu.speakers.yaml
+   :template: videos/video-detail.html
+   :key: 12
+

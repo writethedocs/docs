@@ -1,0 +1,6 @@
+message: "Sentences should be less than 28 words"
+extends: occurrence
+scope: sentence
+level: suggestion
+max: 28
+token: \b(\w+)\b

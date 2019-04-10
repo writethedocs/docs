@@ -1,0 +1,1 @@
+As a senior technical writer for ForgeRock, Mike Jang spends much of his time documenting how deployers can modify JavaScript to customize web applications. He has also written a couple dozen technical books, mostly focused on Linux certification, and is the author of O’Reilly’s *Linux Annoyances for Geeks*.

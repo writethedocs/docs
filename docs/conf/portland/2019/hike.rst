@@ -4,7 +4,7 @@
 Write the Docs Hike
 ===================
 
-Every year we have a conference hike, and at this point it's a fantastic tradition.
+Each and every year we have a conference hike, and at this point it's a fantastic tradition.
 We'll be doing the same hike again this year, because it's the best one easily accessible from downtown Portland.
 
 It's rained on us the past, but we have faith it will be beautiful this year! We shall see Mount Hood at the top :)
