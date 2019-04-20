@@ -12,7 +12,7 @@ Welcome to our community!
 
 * :doc:`Our slack network </slack>` with thousands of members
 * :doc:`Conferences </conf/index>` on 3 continents
-* :doc:`Local meetups </meetups/index>` in over 40 cities
+* :doc:`Local meetups </meetups/index>` in over 42 cities
 
 We consider everyone who cares about communication, documentation, and
 their users to be a member of our community. This can be programmers,
