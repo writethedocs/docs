@@ -1,0 +1,17 @@
+.. raw:: html
+
+    <table>
+    {% for talk in data %}
+
+          <tr>
+              <td>{{ talk.Time }}</td>
+
+              {% set parts = talk.Session.split(' - ') %}
+
+
+                <td> {{ parts[1] }} </td>
+
+                <td> {{ parts[0] }} </td>
+          </tr>
+    {% endfor %}
+    </table>
