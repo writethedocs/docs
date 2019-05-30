@@ -79,9 +79,11 @@ Roles
 Members
 ```````
 
-* `Mike Jang <https://twitter.com/TheMikeJang>`__, Senior Staff Technical Writer, ForgeRock *
-* `Margaret Eker <https://twitter.com/meker>`_
+* `Mike Jang <https://twitter.com/TheMikeJang>`__ *
 * `Rose Williams <https://twitter.com/ZelWms>`_
+* `Marybeth Alexander <https://twitter.com/Knowledge_Owl>`_
+* `Catherine Heath <https://twitter.com/AWayWithWords2>`_
+* `Swapnil Ogale <https://twitter.com/SwapnilOgale>`_
 * You?
 
 Guide Coordination Team
