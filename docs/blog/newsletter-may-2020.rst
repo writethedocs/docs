@@ -86,6 +86,8 @@ Job posts
 
 * `Technical Writer <https://jobs.writethedocs.org/job/197/technical-writer/>`__
    Semaphore, remote, full- or part-time
+* `Developer Documentation Specialist <https://jobs.writethedocs.org/job/198/developer-documentation-specialist/>`__
+   BigCommerce, Austin, full-time
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
