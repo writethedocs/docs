@@ -93,6 +93,13 @@ Allies are welcome as guests in these channels. Please be considerate.
 * **#bipoc** - Social and discussion space for Write the Docs' :doc:`/bipoc` community.
 * **#lgbtq** - Social and discussion space for LGBTQ+ people in the WTD community.
 
+Channels that serve specific communities & their allies
+-------------------------------------------------------
+Allies are welcome as guests in these channels. Please be considerate.
+
+* **#bipoc** - Social and discussion space for Write the Docs' :doc:`/bipoc` community.
+* **#lgbtq** - Social and discussion space for LGBTQ+ people in the WTD community.
+
 Location-based channels
 -----------------------
 
