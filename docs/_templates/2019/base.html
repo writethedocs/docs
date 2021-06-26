@@ -45,6 +45,41 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css" />
         <link rel="stylesheet" href="{{ pathto('_static/conf/css/main-2019.min.css', 1) }}" type="text/css">
 
+
+        <!-- https://developers.google.com/search/docs/data-types/event -->
+
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Event",
+          "name": "Write the Docs {{ name }} {{ year }}",
+          "startDate": "2019-09-15T09:00",
+          "endDate": "2019-09-17T17:00",
+          "location": {
+            "@type": "Place",
+            "name": "Autoklub",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "{{ about.venue }}"
+            }
+          },
+          "image": [
+            "https://www.writethedocs.org/_static/2019/assets/headers/prague-group.png"
+           ],
+          "description": "The conference focused on all things related to software documentation.",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/",
+            {% if flagticketsonsale %}
+            "availability": "https://schema.org/InStock"
+            {% else %}
+            "availability": "https://schema.org/SoldOut"
+            {% endif %}
+
+          }
+        }
+        </script>
+
         <!-- things that change -->
         {% block meta %}
         <meta property="og:site_name" content="Write the Docs {% if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %} {{ name }} {{ year }}">
@@ -70,7 +105,7 @@
     <div class="footer-head">
         <div class="uk-container">
         {% block footerhead %}
-         {% if buttons is defined %} 
+         {% if buttons is defined %}
              {% for callout in buttons.bottom %}
                <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}{% endif %}">{{ callout.text }}</a>
              {% endfor %}
