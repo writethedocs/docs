@@ -173,7 +173,7 @@ We will have a few "swag tables" that are placed around the back of the main bal
 What are the table sizes? What is included?
 -------------------------------------------
 
-The small sponsorship table is a 6' table, and the large is two 6' tables. These are not standard conference expo halls, but in the main conference venue, so please don't bring anything that will need to be hung or expand more than 2 feet beyond the edge of your area. Wifi & Power will be provided.
+The small sponsorship table is a 6' table, and the large is two 6' tables. These are not standard conference expo halls, but in the main conference venue, so please don't bring anything that will need to be hung or expand more than 2 feet beyond the edge of your area. Wi-Fi & Power will be provided.
 
 How do I ship items?
 --------------------

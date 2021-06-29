@@ -225,7 +225,7 @@ You will be given a booth that is in the back of the Ballroom,
 which is the primary conference venue.
 Most of the attendee focus will come during breaks (10 minutes between each talk, two longer snack breaks) and at the beginning and end of the day.  
 
-**Logistics**: Booth setup is available Sunday, but they only need to be staffed on Monday and Tuesday. Power and Wifi are available.
+**Logistics**: Booth setup is available Sunday, but they only need to be staffed on Monday and Tuesday. Power and Wi-Fi are available.
 
 * The *large* sponsorship booth is 12 feet
 * The *small* sponsorship booth is 6 feet
@@ -283,7 +283,7 @@ The job fair will be a low key event. Every participant will have a six-foot tab
 What are the table sizes? What is included?
 -------------------------------------------
 
-The small sponsorship table is a 6' table, and the large is two 6' tables. These are not standard conference expo halls, but in the main conference venue, so please don't bring anything that will need to be hung or expand more than 2 feet beyond the edge of your area. Wifi & Power will be provided.
+The small sponsorship table is a 6' table, and the large is two 6' tables. These are not standard conference expo halls, but in the main conference venue, so please don't bring anything that will need to be hung or expand more than 2 feet beyond the edge of your area. Wi-Fi & Power will be provided.
 
 How do I ship items?
 --------------------

@@ -34,7 +34,7 @@ The community had plenty to suggest. Options ranged from suggestions of platform
 
 Here are all the options folks contributed to the discussion:
 
-* If you're writing docs in Confluence or knowledgebase articles in Zendesk, both tools support limited access
+* If you're writing docs in Confluence or knowledge base articles in Zendesk, both tools support limited access
 * You can implement per-location authentication requirements in an NGINX server. This supports SSO with JWT (Json Web Tokens)
 * Netlify offers an `identity and RBAC (role-based access control) solution <https://login-to-gated-site.netlify.app/>`_
 * Work with a combination of feature flags and allowlists

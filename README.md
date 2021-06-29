@@ -124,3 +124,7 @@ virtual Python environment with the following command on Linux:
 If you have verified this command on MacOS or Windows, we invite you to submit a PR to include that information here.
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)
+
+## Style guide
+
+* Use `Wi-Fi` not `wifi` or `Wifi`

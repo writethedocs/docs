@@ -33,7 +33,7 @@ Here are some good questions to answer when you think about the venue:
 * Is the venue easily reachable by public transit and/or does it have sufficient parking, depending on the transit options in your local area?
 * Are there affordable accommodations nearby? 
 * Does the venue allow for catering by other parties, or what are the options for food?
-* Does the venue have enough wifi/internet capacity, or can more be added?
+* Does the venue have enough Wi-Fi/internet capacity, or can more be added?
 
 Submit
 ------

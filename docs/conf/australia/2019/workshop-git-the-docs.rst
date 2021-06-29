@@ -33,7 +33,7 @@ Schedule
 Prerequisites
 -------------
 
-To get the most out of this workshop, you’ll need to bring a computer capable of connecting to wifi.
+To get the most out of this workshop, you’ll need to bring a computer capable of connecting to Wi-Fi.
 Attendees will receive setup instructions prior to the workshop that cover how to install and configure Git.
 
 Cost (none)

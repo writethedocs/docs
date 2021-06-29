@@ -45,7 +45,7 @@ Our favorite keyboard shortcuts
 Nothing makes you more nostalgic for familiar keyboard shortcuts than switching operating systems! Fortunately, many Windows keyboard shortcuts work for Mac if you use Command instead of Ctrl (and vice versa). But getting comfortable takes time. To help you settle into a new OS - or just learn some handy tricks - here's a roundup of the community's favorite shortcuts.
 
 * Mac:
-   * **Command + Backquote**: switch between windows in one app (eg different browser windows).
+   * **Command + Backquote**: switch between windows in one app (e.g. different browser windows).
    * **Command + Tab**: switch to next most recently used app. Command + Shift + Tab to change in the opposite direction; hold Command then hit Tab to cycle through open applications.
    * **Command + ~** (tilde): cycle through open windows in the current application.
    * **Option + click green button in a window**: maximize the window.
@@ -62,7 +62,7 @@ Nothing makes you more nostalgic for familiar keyboard shortcuts than switching 
    * **Windows key + Tab**: open workspaces preview
    * **F11**: toggle full screen.
 
-We also had one suggestion for Linux: **Alt + Backquote** to switch between windows in a single app (eg different browser windows).
+We also had one suggestion for Linux: **Alt + Backquote** to switch between windows in a single app (e.g. different browser windows).
 
 One more tip: if you regularly use several operating systems, consider setting up keyboard mapping so your shortcuts stay the same across systems.
 
@@ -86,7 +86,7 @@ Do you feel confined by your tools - do they block your writing? - or do you fin
 
 Some find they're distracted by the formatting possibilities in Flare or Word, preferring the simplicity of plain text or markdown: the constraints can be freeing. Other people find considering the styling (or, for DITA, the semantics) helps them think through the content and its meaning.
 
-Thinking about formatting can help you look at your content anew - several said they reorganize the content when formatting. Similarly, regardless of which tool works better, many people felt that switching tools or even the medium (eg computer to paper) helps unblock them when they get stuck. It's a trick to help your brain look at the problem differently. A similar suggestion *(that we unfortunately could not possibly condone - Ed.)* was to change your font to Comic Sans.
+Thinking about formatting can help you look at your content anew - several said they reorganize the content when formatting. Similarly, regardless of which tool works better, many people felt that switching tools or even the medium (e.g. computer to paper) helps unblock them when they get stuck. It's a trick to help your brain look at the problem differently. A similar suggestion *(that we unfortunately could not possibly condone - Ed.)* was to change your font to Comic Sans.
 
 A philosophical question: is the style part of the content? Some see it as totally separate - a layer you add on top once the content is done. For others, the format isn't meaningfully separate from the content: you can write without styling in mind, but when published, the styling will always affect the reader. In some types of writing the style is hugely important - for example, UI text.
 

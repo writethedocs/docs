@@ -31,7 +31,7 @@ A recent question about how to balance docs work and support content produced an
 
 But this may be a rare privilege; many replies to the original post were from people who work on support teams, not on dedicated docs teams. And they write the docs. In their situations, there isn't a clear distinction between roles, nor between types of content. More than one reply described scenarios in which all docs are produced by support. 
 
-Still other replies came from technical writers whose role emerged from support. Some writers report to a support manager, and some people in a dedicated writer role work from support tickets, to make sure the docs address known customer issues. Some folks work on both product docs and separate knowledgebase articles.
+Still other replies came from technical writers whose role emerged from support. Some writers report to a support manager, and some people in a dedicated writer role work from support tickets, to make sure the docs address known customer issues. Some folks work on both product docs and separate knowledge base articles.
 
 In short, there are myriad ways to organize the relationship between docs teams and support teams, and between the different (or not-so-different) types of content. What everyone seemed to agree on, though, was the need for close and well-coordinated communication across teams and deliverables.
 
@@ -44,7 +44,7 @@ So you're no longer the only documentarian in your company. Hooray! Working in a
 * Discuss the project's roadmap with project/product managers, and ask them (and other stakeholders) about immediate documentation needs. For your new writers, ask about topics that could use a little extra attention - an opportunity for them to specialize in something.
 * Encourage new writers to sit in during backlog grooming and project demos. Product prioritization can inform your own priorities.
 * Coordinate with engineering teams by attending their standup and planning meetings. You're working towards a common goal, so it helps to know how everyone's contributions fit together.
-* Try an issue tracking tool (eg Jira or GitHub Issues). Some feel it helps keep them accountable and prevents them from struggling under the workload. Similarly, for big projects, try mapping them out using a tool, to give your team and managers a high-level glance at everyone's workload.
+* Try an issue tracking tool (e.g. Jira or GitHub Issues). Some feel it helps keep them accountable and prevents them from struggling under the workload. Similarly, for big projects, try mapping them out using a tool, to give your team and managers a high-level glance at everyone's workload.
 * Set up a mandatory flag or field to say if an item needs to be in the release notes. This ensures that important items and fixes won't go undocumented.
 * Audit your docs, archiving or updating content that people aren't reading. Alongside PMs, determine which content is outdated or unnecessary, and then divide them among writers on the team. And if you're struggling to persuade colleagues that an audit is necessary, our next article might just help.
 

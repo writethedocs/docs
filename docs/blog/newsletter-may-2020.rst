@@ -40,7 +40,7 @@ No documentarian is an island: interacting with subject matter experts (SMEs) is
 * Coordinate with the SMEs and their managers. If the document is high priority and requires SMEs’ input before it can be completed, the manager should make it clear in the ticketing system. This way, everyone can see how the missing input would affect the project. Point out what the repercussions might be if it isn’t clear.
 * Adjust your communication style. Whether it’s through face-to-face meetings, calls, emails, or instant messages, select the communication method that your SMEs prefer. You’ll get more information from them this way. Incorporate this info into your question until you get to the bottom of it.
 * Depending on the topic, combine your series of questions into one long query. Provide a preferred response date and a reason for that date.
-* Share what you understand about the topic, and ask the SMEs for their input. Phrase it as a “yes/no” question (eg, “This is how I think X works. Is this right?”). If you’re correct, they’ll agree. If you’re wrong, they’ll correct you. This approach is known as Cunningham’s Law: "the best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer".
+* Share what you understand about the topic, and ask the SMEs for their input. Phrase it as a “yes/no” question (e.g., “This is how I think X works. Is this right?”). If you’re correct, they’ll agree. If you’re wrong, they’ll correct you. This approach is known as Cunningham’s Law: "the best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer".
 
 -------------------------------------
 Tips for creating quality screenshots

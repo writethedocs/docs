@@ -1,0 +1,23 @@
+extends: spelling
+message: "'%s' might be a typo"
+filters:
+  - 'config'
+  - 'rst'
+  - 'na'
+  - 'eu'
+  - 'au'
+  - 'tz'
+  - 'png'
+  - 'jpg'
+  - 'txt'
+  - 'svg'
+  - 'www'
+  - 'https'
+  - 'http'
+  - 'dev'
+  - 'img'
+  - 'href'
+  - '#watercooler'
+  - 'usr'
+  - 'xml'
+  - 'mailto'

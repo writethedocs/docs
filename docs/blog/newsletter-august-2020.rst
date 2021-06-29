@@ -50,7 +50,7 @@ You could use a more general heading like Questions, Q&A, or Notes. However, the
 
 Alternatively, embed the information into the main sections. It’s a tricky balance: too many side notes, and you muddy the page for your core audience. But sometimes these asides are worthwhile - particularly if they’re not essential info, but help your reader understand the topic better.
 
-Finally, if you’ve got a knowledgebase designed for micro-articles, you could split each factoid out into its own page, and link to them from the main article. The bigger the tidbit, the more this makes sense!
+Finally, if you’ve got a knowledge base designed for micro-articles, you could split each factoid out into its own page, and link to them from the main article. The bigger the tidbit, the more this makes sense!
 
 ---------
 Job posts

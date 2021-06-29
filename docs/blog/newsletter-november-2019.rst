@@ -66,7 +66,7 @@ Referring to the reader in the `second person <https://en.wikipedia.org/wiki/Gra
 
 In most end-user documentation, you can use the second person ("you should do the thing") rather than the third person ("the administrator should do the thing", when the admin is your audience). But there are some situations where second person doesn't work so well. It might be less appropriate if you're writing in a more formal context. If there are multiple types of readers / users of your system (for example, sysadmins and end users), it might be better to specify which one you're referring to, as "you" could be ambiguous.
 
-You can sometimes avoid specifying the person altogether by writing in the imperative. (eg, "To configure a new foo, use the set command.") This is good as it's clear and instructive, and often shorter. "You" and the imperative mood aren't mutually exclusive as the second person is the only possible implied subject.
+You can sometimes avoid specifying the person altogether by writing in the imperative. (e.g., "To configure a new foo, use the set command.") This is good as it's clear and instructive, and often shorter. "You" and the imperative mood aren't mutually exclusive as the second person is the only possible implied subject.
 
 But only using the imperative can sometimes seem a bit curt. If you like using the second person, but you're worried about having too many instances of the word "you" in a document, try mixing the second person with the imperative.
 

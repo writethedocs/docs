@@ -414,37 +414,37 @@ included:
 
 .. table::  Additional Benefits
 
-   +-----------------------------------+-----------------------------------+
-   | Benefit                           | Number of Respondents             |
-   +===================================+===================================+
-   | Pension, retirement fund,         | 54                                |
-   | superannuation or related         |                                   |
-   | benefits (including matching)     |                                   |
-   +-----------------------------------+-----------------------------------+
-   | Stock, stock options, shares or   | 52                                |
-   | related benefits                  |                                   |
-   +-----------------------------------+-----------------------------------+
-   | Meals, meal vouchers or other     | 26                                |
-   | food-related benefits             |                                   |
-   +-----------------------------------+-----------------------------------+
-   | Gym, fitness, sport or other      | 17                                |
-   | wellness-related benefits         |                                   |
-   +-----------------------------------+-----------------------------------+
-   | Other types of insurance eg life, | 13                                |
-   | accident, income protection etc   |                                   |
-   +-----------------------------------+-----------------------------------+
-   | Parking, transportation or        | 21                                |
-   | commuting-related benefits        |                                   |
-   +-----------------------------------+-----------------------------------+
-   | Time off or bonuses for           | 5                                 |
-   | community-related activities e.g. |                                   |
-   | volunteering                      |                                   |
-   +-----------------------------------+-----------------------------------+
-   | Parental Leave                    | 5                                 |
-   +-----------------------------------+-----------------------------------+
-   | Unlimited PTO (paid/personal time | 3                                 |
-   | off)                              |                                   |
-   +-----------------------------------+-----------------------------------+
+   +------------------------------------+-----------------------------------+
+   | Benefit                            | Number of Respondents             |
+   +====================================+===================================+
+   | Pension, retirement fund,          | 54                                |
+   | superannuation or related          |                                   |
+   | benefits (including matching)      |                                   |
+   +------------------------------------+-----------------------------------+
+   | Stock, stock options, shares or    | 52                                |
+   | related benefits                   |                                   |
+   +------------------------------------+-----------------------------------+
+   | Meals, meal vouchers or other      | 26                                |
+   | food-related benefits              |                                   |
+   +------------------------------------+-----------------------------------+
+   | Gym, fitness, sport or other       | 17                                |
+   | wellness-related benefits          |                                   |
+   +------------------------------------+-----------------------------------+
+   | Other types of insurance e.g. life,| 13                                |
+   | accident, income protection etc    |                                   |
+   +------------------------------------+-----------------------------------+
+   | Parking, transportation or         | 21                                |
+   | commuting-related benefits         |                                   |
+   +------------------------------------+-----------------------------------+
+   | Time off or bonuses for            | 5                                 |
+   | community-related activities e.g.  |                                   |
+   | volunteering                       |                                   |
+   +------------------------------------+-----------------------------------+
+   | Parental Leave                     | 5                                 |
+   +------------------------------------+-----------------------------------+
+   | Unlimited PTO (paid/personal time  | 3                                 |
+   | off)                               |                                   |
+   +------------------------------------+-----------------------------------+
 
 .. figure:: images/2019/9.svg
    :alt: Figure: Additional Benefits
@@ -616,10 +616,14 @@ Age
 
 Note: 3 respondents skipped this question
 
-The two largest age groups (26-35 year olds and 36-45 year olds)
+.. vale off
+
+The two largest age groups (26 to 35-year-olds and 36 to 45-year-olds)
 combined formed 67.5% of the total respondents. Only 4.6% of respondents
 fell into the youngest age group, and there were no respondents in the
 66+ age bracket.  
+
+.. vale on
 
 .. figure:: images/2019/12.svg
    :alt: Figure: Age

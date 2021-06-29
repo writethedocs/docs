@@ -273,7 +273,7 @@ The job fair will be a low key event. Generally we recommend having links availa
 Can I play multiple videos in my sponsorship booth?
 ---------------------------------------------------
 
-Yes, you can point your booth video to any YouTube playlist as well as a specific video. So if you have multiple videos that you'd like to show (eg. a hiring video and a product demo), you can create a playlist and embed that in your booth.
+Yes, you can point your booth video to any YouTube playlist as well as a specific video. So if you have multiple videos that you'd like to show (e.g. a hiring video and a product demo), you can create a playlist and embed that in your booth.
 
 We will also share the sponsorship videos with attendees after the conference, so that you can continue to get more value from the video content you produce. 
 

@@ -894,7 +894,7 @@ Salary - Employees
                                                                          
    Note:                                                                 
    Please do not include the currency symbol or any decimal places.      
-   Commas can be used for digit grouping in the US/UK style (eg 50,000). 
+   Commas can be used for digit grouping in the US/UK style (e.g. 50,000). 
                                                                          
    Example:                                                              
    Person A receives $4,000 take home pay each month, but an additional  
@@ -1704,15 +1704,19 @@ Age
 
 .. _h.r1ouunjt2fga:
 
+.. vale off
+
 .. _h.qravpnx0n97n:
 
-The two largest-represented age groups (26-35 year olds and 36-45 year
-olds) combined formed 64% of the total respondents. 46-55 year olds made
-up 19.8%, and 56-65 year olds another 9.4%.
+The two largest-represented age groups (26 to 35-year-olds and 36 to 45-year-olds) 
+combined formed 64% of the total respondents. 46 to 55-year-olds made
+up 19.8%, and 56 to 65-year-olds another 9.4%.
 
 The youngest age bracket took 5.7% of the total and the oldest bracket
 (66+ years) took 0.6% or 5 individuals (there were no respondents in
 this group in 2019).
+
+.. vale on
 
 2 respondents chose not to answer this question.
 

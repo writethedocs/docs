@@ -23,7 +23,7 @@ Their initial quote is pretty high, but they seem pretty flexible and I'm contin
 alternatives with them. We've been asked, though, to decide on dates by the end of summer 2016.
 
 The venue is already set up to host conferences, unlike the Crystal Ballroom in Portland.
-This means that we don't need to worry about setting up wifi or taping down power cables -- big wins!
+This means that we don't need to worry about setting up Wi-Fi or taping down power cables -- big wins!
 They also offer full catering, so we'd need to decide on menus to accommodate dietary needs,
 but we would not need to find or wrangle catering.
 

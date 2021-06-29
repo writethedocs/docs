@@ -33,7 +33,7 @@ Each ticket includes:
 * Entry to all conference events and activities
 * Breakfast, snacks, and lunch on all event days (Sunday-Tuesday)
 * Welcome Reception and Social Event with light snacks and drinks
-* Wifi throughout the event
+* Wi-Fi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
 Refund Policy

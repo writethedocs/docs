@@ -14,7 +14,7 @@ Each ticket includes:
 * Entry to all conference events and activities
 * Snacks and drinks on all conference days
 * Welcome Reception and Social Event with light snacks and free drinks
-* Wifi throughout the event
+* Wi-Fi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
 .. class:: ticket
