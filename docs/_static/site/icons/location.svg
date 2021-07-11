@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="10---Job-Board" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet" transform="translate(-285.000000, -718.000000)">
+            <g id="Topic-2" transform="translate(283.000000, 718.000000)">
+                <g id="Group-3" transform="translate(2.000000, 0.000000)">
+                    <circle id="Oval-4" fill="#2D6FF4" cx="30" cy="30" r="30"></circle>
+                    <g id="location" transform="translate(24.000000, 21.600000)" stroke="#FFFFFF">
+                        <path d="M8.25263158,0.589473684 C4.02021053,0.589473684 0.589473684,3.99663158 0.589473684,8.22905263 C0.589473684,13.9469474 8.25263158,22.4 8.25263158,22.4 C8.25263158,22.4 15.9157895,13.9469474 15.9157895,8.22905263 C15.9157895,3.99663158 12.4850526,0.589473684 8.25263158,0.589473684 Z" id="Shape" stroke-width="1.01"></path>
+                        <circle id="Oval" cx="8.25263158" cy="8.01684211" r="2.71157895"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

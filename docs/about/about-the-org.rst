@@ -1,3 +1,5 @@
+:template: site/about.html
+
 About Our Organization
 ======================
 

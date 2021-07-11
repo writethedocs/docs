@@ -1,3 +1,5 @@
+:template: site/podcast.html
+
 Podcast
 =======
 

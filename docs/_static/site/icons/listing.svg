@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="10---Job-Board" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-17.000000, -1537.000000)">
+            <g id="Topic-3" transform="translate(17.000000, 1537.000000)">
+                <g id="Icon">
+                    <circle id="Oval-4" fill="#2D6FF4" cx="22" cy="22" r="22"></circle>
+                    <g id="file" transform="translate(14.666667, 11.733333)">
+                        <polyline id="Rectangle-path" stroke="#FFFFFF" points="14.6666667 6.30151463 14.6666667 20.5333333 0 20.5333333 0 1.46666667 9.35782252 1.46666667"></polyline>
+                        <g id="plus" transform="translate(8.800000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <rect id="Rectangle-path" x="2.85185185" y="0" width="1" height="6.84444444"></rect>
+                            <rect id="Rectangle-path" x="0" y="2.85185185" width="5.7037037" height="1"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

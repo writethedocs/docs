@@ -1,3 +1,5 @@
+:template: site/meetups.html
+
 Meetups
 =======
 

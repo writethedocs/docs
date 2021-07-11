@@ -1,3 +1,5 @@
+:template: site/layout.html
+
 ===================
 Documentation Guide
 ===================

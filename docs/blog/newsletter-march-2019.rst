@@ -1,3 +1,5 @@
+:template: site/blogpost.html
+
 .. post:: March 5, 2019
    :tags: newsletter
 

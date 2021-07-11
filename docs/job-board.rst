@@ -1,3 +1,5 @@
+:template: site/job-board.html
+
 Job Board
 =========
 

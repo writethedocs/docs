@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>co-host</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="9---Podcasts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet" transform="translate(-495.000000, -1522.000000)">
+            <g id="Community--Icons" transform="translate(0.000000, 1304.000000)">
+                <g id="Topic-3" transform="translate(495.000000, 218.000000)">
+                    <g id="co-host">
+                        <circle id="Oval-4" fill="#2D6FF4" cx="30" cy="30" r="30"></circle>
+                        <g id="users" transform="translate(16.000000, 18.000000)" stroke-width="1.1">
+                            <circle id="Oval" stroke="#FFFFFF" cx="10.46875" cy="6.75" r="5.46875"></circle>
+                            <path d="M0,22.59375 C1.09375,17.125 5.3125,13.21875 10.3125,13.21875 C15.46875,13.21875 19.84375,17.4375 20.78125,22.90625" id="Shape" stroke="#FFFCFC"></path>
+                            <path d="M16.25,1.5625 C18.4375,-0.9375 22.5,-0.3125 23.90625,2.65625 C25.3125,5.625 22.96875,9.21875 19.6875,9.21875 C24.21875,9.21875 27.8125,12.96875 28.4375,17.34375" id="Shape" stroke="#FFFCFC"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+{% include "site/head.html" %}
+
+ <div class="body" role="main">
+    <div class="uk-container">
+      <ul class="uk-breadcrumb">
+        <li>
+          <a href="">Home</a>
+        </li>
+        <li>
+          <a href="">Blog</a>
+        </li>
+        <li>
+          <span>Write the Docs Newsletter – June 2018</span>
+        </li>
+    </ul>
+        
+        {% block body %}
+        {{ body }}
+        {% endblock %}
+
+      
+   </div>   
+</div>
+
+{% include "site/footer.html" %}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>topic discussion</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="9---Podcasts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-16.000000, -1314.000000)">
+            <g id="Topic-1" transform="translate(16.000000, 1314.000000)">
+                <g id="topic-discussion">
+                    <circle id="Oval-4" fill="#2D6FF4" cx="30" cy="30" r="30"></circle>
+                    <g id="topic" transform="translate(18.000000, 19.000000)">
+                        <polyline id="Shape" stroke="#FFFFFF" points="3 0 25 0 25 16"></polyline>
+                        <path d="M6.38888889,24 L6.38888889,18.1490683 L0,18.1490683 L0,2 L23,2 L23,18.1490683 L12.4072222,18.1490683 L6.38888889,24 Z M1.27777778,16.9068323 L7.66666667,16.9068323 L7.66666667,20.9937888 L11.8705556,16.9068323 L21.7222222,16.9068323 L21.7222222,3.24223602 L1.27777778,3.24223602 L1.27777778,16.9068323 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

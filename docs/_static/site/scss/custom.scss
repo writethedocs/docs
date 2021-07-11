@@ -1,0 +1,28 @@
+$base-body-font-family: 'Nunito Sans', sans-serif;
+
+.cover-container {
+  @extend .uk-cover-container;
+  background-color: #f8f8f8;
+
+  @media (max-width: $breakpoint-small){
+    img {
+      object-fit: none;
+      object-position: 52% 20%;
+      width: 720px;
+      height: 483px;
+      /** 1440 X 967*/
+    }
+  }
+
+  img.side-image {
+    display: none;
+    @media (max-width: $breakpoint-small){
+      display: inline;
+    }
+  }
+}
+
+
+.left-image {
+  display: none;
+}

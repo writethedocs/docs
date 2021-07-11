@@ -1,3 +1,4 @@
+:template: site/index.html
 .. meta::
    :description: A series of events for technical writers,
                  documentarians,

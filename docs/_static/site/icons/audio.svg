@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Audio</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="9---Podcasts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet" transform="translate(-276.000000, -1522.000000)">
+            <g id="Community--Icons" transform="translate(0.000000, 1304.000000)">
+                <g id="Topic-2" transform="translate(276.000000, 218.000000)">
+                    <g id="Audio">
+                        <circle id="Oval-4" fill="#2D6FF4" cx="30" cy="30" r="30"></circle>
+                        <g id="sound" transform="translate(20.000000, 20.000000)" stroke="#FFFFFF" stroke-width="1.1">
+                            <polygon id="Shape" points="10 8 16 12 10 16"></polygon>
+                            <circle id="Oval" cx="11.5" cy="11.5" r="11.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

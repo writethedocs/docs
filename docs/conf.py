@@ -84,15 +84,8 @@ html_search_language = 'en'
 pygments_style = 'sphinx'
 primary_domain = None
 
-html_theme = 'alabaster'
-html_theme_options = {
-    'logo': 'sticker-wtd-colors.png',
-    'sidebar_includehidden': False,
-    'github_user': 'writethedocs',
-    'github_repo': 'www',
-    'github_banner': True,
-    'github_button': False,
-}
+html_theme_path = ['_templates']
+html_theme = 'site'
 
 html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'

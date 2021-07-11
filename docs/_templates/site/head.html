@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Write The Docs</title>
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Kreon:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
+    <link rel="stylesheet" href="{{ pathto('_static/site/css/main.css', 1) }}" type="text/css">
+    <link rel="shortcut icon" href="{{ pathto('_static/site/icons/favicon.png', 1) }}">
+  </head>
+
+  <body>
+    <div class="header">
+      <nav class="uk-navbar-container uk-navbar-transparent uk-container" uk-navbar>
+        <div class="uk-navbar-left">
+          <div class="header-logo-section">
+            <div class="logo">
+                Write the Docs
+            </div>
+            <div class="slack-callout">
+              <a href="">
+                Join our slack #
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="uk-navbar-right">
+           <a href="#" class="uk-hidden@s" uk-toggle="target: #offcanvas-nav">
+            <span class="uk-margin-small-right" uk-icon="menu"></span>
+          </a>
+          <div id="offcanvas-nav" uk-offcanvas="overlay: true">
+              <div class="uk-offcanvas-bar">
+                  <div class="offcanvas-logo">
+                    Write <br>
+                    The <br>
+                    Docs
+                  </div>
+                  <ul class="uk-nav uk-nav-default">
+                      <li class="uk-nav-divider"></li>
+                      <li><a href="{{ pathto('/index') }}">Home</a></li>
+                      <li><a href="{{ pathto('/conf/index') }}">Conferences</a></li>
+                      <li><a href="{{ pathto('/meetups/index') }}">Meetups</a></li>
+                      <li><a href="{{ pathto('/blog') }}">Blog</a></li>
+                      <li class="uk-parent">
+                          <a href="#">Resources</a>
+                          <ul class="uk-nav-sub">
+                              <li><a href="#">Conference Videos</a></li>
+                              <li><a href="#">Podcast</a></li>
+                              <li><a href="#">Organizer Guide</a></li>
+                              <li><a href="#">Documentation Guide</a></li>
+                          </ul>
+                      </li>
+                      <li class="uk-parent">
+                          <a href="#">About</a>
+                          <ul class="uk-nav-sub">
+                              <li><a href="#">About the Write The Docs Organization</a></li>
+                              <li><a href="#">Team</a></li>
+                              <li><a href="#">Origin Story</a></li>
+                              <li><a href="#">Documentarians</a></li>
+                          </ul>
+                      </li>
+                  </ul>
+      
+              </div>
+          </div>
+          <ul class="uk-navbar-nav uk-visible@s">
+            <li class="uk-active">
+              <a href="{{ pathto('/index') }}">Home</a>
+            </li>
+            <li>
+              <a href="{{ pathto('/conf/index') }}">Conference</a>
+            </li>
+            <li>
+              <a href="{{ pathto('/meetups/index') }}">Meetups</a>
+            </li>
+            <li>
+              <a href="{{ pathto('/blog') }}">Blog</a>
+            </li>
+            <li class="uk-parent">
+              <a href="">Resources</a>
+              <div class="uk-navbar-dropdown">
+                  <ul class="uk-nav uk-navbar-dropdown-nav">
+                      <li><a href="#">Conference Videos</a></li>
+                      <li><a href="#">Podcast</a></li>
+                      <li><a href="#">Organizer Guide</a></li>
+                      <li><a href="#">Documentation Guide</a></li>
+                  </ul>
+              </div>
+            </li>
+            <li class="uk-parent">
+              <a href="">About</a>
+              <div class="uk-navbar-dropdown">
+                  <ul class="uk-nav uk-navbar-dropdown-nav">
+                      <li><a href="#">About the Write The Docs Organization</a></li>
+                      <li><a href="#">Team</a></li>
+                      <li><a href="#">Origin Story</a></li>
+                      <li><a href="#">Documentarians</a></li>
+                  </ul>
+              </div>
+            </li>
+         </ul>
+        </div>
+      </nav>
+    </div>

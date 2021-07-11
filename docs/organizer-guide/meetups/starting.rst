@@ -1,3 +1,5 @@
+:template: site/starting-a-meetup.html
+
 Starting a Meetup
 =================
 
