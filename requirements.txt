@@ -1,4 +1,4 @@
-Sphinx==4.0.2
+Sphinx==4.1.0
 recommonmark==0.7.1
 ablog==0.10.6  # pyup: ignore
 sphinx_autobuild==2021.3.14
